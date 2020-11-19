@@ -150,7 +150,7 @@ img {
     @include breakpoint(medium) {
         margin-left: auto;
         margin-right: auto;
-        max-width: 10800px;
+        max-width: 1440px;
         padding-top: 2.5rem;
     }
 
@@ -163,8 +163,9 @@ img {
 
 .main {
     padding: 0.5rem;
-
+    
     @include breakpoint(medium) {
+
         margin-left: 22rem;
     }
 }
