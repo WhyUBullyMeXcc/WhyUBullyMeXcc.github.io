@@ -3,9 +3,6 @@ title: 工具
 categories: [工具]
 comments: true
 ---
-
-# 上海大学生网络安全大赛一些writeup
-
 # Burpsuite的一个好玩的模块
 
 ## 前言
